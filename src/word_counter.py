@@ -23,5 +23,3 @@ if __name__ == "__main__":
     print(f"Total lines: {total_lines}")
     print(f"Total characters: {total_characters}")
     print(f"Total words: {total_words}")
-
-# C:\Users\Len\Documents\andrei-python-onboarding\tests\test_document.txt
