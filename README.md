@@ -13,6 +13,4 @@ output received will be the amount of words, characters and lines inside the fil
 The "total words" counter doesn't work well if there are special characters between the words. 
 Still trying to figure out a way to fix this problem.
 
-#
-
 ##### By Andrei de Aragão Aleksandravicius
